@@ -1,0 +1,165 @@
+# depslib dependency file v1.0
+1538522365 source:d:\florespomajoseph1f\examen\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
+1538522365 d:\florespomajoseph1f\examen\validaciones.h
+
+1538526990 source:d:\florespomajoseph1f\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"validaciones.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1538521464 d:\florespomajoseph1f\examen\juegos.h
+
+1538526990 source:d:\florespomajoseph1f\examen\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"validaciones.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1538526990 source:d:\florespomajoseph1f\examen\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"validaciones.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1538526120 d:\florespomajoseph1f\examen\clientes.h
+
+1538527742 d:\florespomajoseph1f\examen\alquileres.h
+
+1538995051 source:c:\users\jrm62\desktop\programacion1-2da-master\examen\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"validaciones.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1538989122 c:\users\jrm62\desktop\programacion1-2da-master\examen\validaciones.h
+
+1538529449 c:\users\jrm62\desktop\programacion1-2da-master\examen\juegos.h
+
+1538529449 c:\users\jrm62\desktop\programacion1-2da-master\examen\clientes.h
+
+1538993556 c:\users\jrm62\desktop\programacion1-2da-master\examen\alquileres.h
+
+1538990198 source:c:\users\jrm62\desktop\programacion1-2da-master\examen\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"validaciones.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1538990852 source:c:\users\jrm62\desktop\programacion1-2da-master\examen\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"validaciones.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1538993691 source:c:\users\jrm62\desktop\programacion1-2da-master\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"validaciones.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1538989507 source:c:\users\jrm62\desktop\programacion1-2da-master\examen\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
+1539046823 source:d:\flores_poma_joseph_1f\trabajosprogramacion-master\examen\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"validaciones.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1539028426 d:\flores_poma_joseph_1f\trabajosprogramacion-master\examen\validaciones.h
+
+1539028426 d:\flores_poma_joseph_1f\trabajosprogramacion-master\examen\juegos.h
+
+1539028426 d:\flores_poma_joseph_1f\trabajosprogramacion-master\examen\clientes.h
+
+1539046823 d:\flores_poma_joseph_1f\trabajosprogramacion-master\examen\alquileres.h
+
+1539028426 source:d:\flores_poma_joseph_1f\trabajosprogramacion-master\examen\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"validaciones.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1539044869 source:d:\flores_poma_joseph_1f\trabajosprogramacion-master\examen\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"validaciones.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1539046460 source:d:\flores_poma_joseph_1f\trabajosprogramacion-master\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"validaciones.h"
+	"juegos.h"
+	"clientes.h"
+	"alquileres.h"
+
+1539028426 source:d:\flores_poma_joseph_1f\trabajosprogramacion-master\examen\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
